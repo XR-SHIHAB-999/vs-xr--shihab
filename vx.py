@@ -84,7 +84,7 @@ def clear():
 def back():
 	login()
  
-VS*XR SHIHAB ="VS XR SHIHAB -"
+SHIHAB ="SHIHAB-"
 imt="-Busra4786=="
 ak="Lover-"
 myid=uuid.uuid4().hex[:10].upper()
